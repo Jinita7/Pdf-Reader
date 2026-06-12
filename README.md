@@ -11,5 +11,5 @@ This project extracts text from a PDF file and saves it into an Excel file.
 ## Run
 
 ```bash
-python3 main.py
+python main.py
 ```
